@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Xypo/static/css/main.bcd392a8.chunk.css",
+    "main.js": "/Xypo/static/js/main.5ae903d1.chunk.js",
+    "main.js.map": "/Xypo/static/js/main.5ae903d1.chunk.js.map",
+    "runtime-main.js": "/Xypo/static/js/runtime-main.468433cc.js",
+    "runtime-main.js.map": "/Xypo/static/js/runtime-main.468433cc.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/Xypo/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.c976180e.chunk.js": "/Xypo/static/js/2.c976180e.chunk.js",
+    "static/js/2.c976180e.chunk.js.map": "/Xypo/static/js/2.c976180e.chunk.js.map",
+    "static/js/3.9329d50f.chunk.js": "/Xypo/static/js/3.9329d50f.chunk.js",
+    "static/js/3.9329d50f.chunk.js.map": "/Xypo/static/js/3.9329d50f.chunk.js.map",
+    "index.html": "/Xypo/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/Xypo/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.bcd392a8.chunk.css.map": "/Xypo/static/css/main.bcd392a8.chunk.css.map",
+    "static/js/2.c976180e.chunk.js.LICENSE.txt": "/Xypo/static/js/2.c976180e.chunk.js.LICENSE.txt",
+    "static/media/aa.5632a661.png": "/Xypo/static/media/aa.5632a661.png",
+    "static/media/about.7f84a07b.png": "/Xypo/static/media/about.7f84a07b.png",
+    "static/media/XypoStyle.scss": "/Xypo/static/media/background.8de6c9d9.png",
+    "static/media/contact.df7ca035.png": "/Xypo/static/media/contact.df7ca035.png",
+    "static/media/course.d0488765.png": "/Xypo/static/media/course.d0488765.png",
+    "static/media/offer.6f311d79.png": "/Xypo/static/media/offer.6f311d79.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.468433cc.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.c976180e.chunk.js",
+    "static/css/main.bcd392a8.chunk.css",
+    "static/js/main.5ae903d1.chunk.js"
+  ]
+}
